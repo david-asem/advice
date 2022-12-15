@@ -52,6 +52,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * AI2 NLP Highlights Podcasts: PHD Application Series - [Preparing Aplication Materials](https://soundcloud.com/nlp-highlights/133-phd-application-series-preparing-application-materials-with-nathan-schneider-and-roma-patel), [PhDs in Europe v/s US](https://soundcloud.com/nlp-highlights/134-phd-application-series-phds-in-europe-versus-the-us)
 * [Student Perspectives on Applying to NLP PhD Programs](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/) -- MUST READ
 * [Himabindu Lakkaraju and Aditya Grover’s Panel](https://www.youtube.com/watch?v=z6TkkdlRWcU) -- Must watch, great insights from the panel.
+* [Demistifying PhD Admission application by Shriram Krishnamurthi (Brown CS)](https://www.youtube.com/watch?v=IprN9fPV2LI) -- nice nuggets on the admission process from a Prof's POV.
 * [PhD Application FAQs by Noah Smith (Faculty at UWash)](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit)
 * [Applying to Ph.D. Programs in Computer Science by Mor Harchol-Balter (Prof at CMU)](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) -- Very good breakdown of the process + a good insight into how to decide if its for you.
 * [How to get into grad school for science, engineering, math, and CS by Matt Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)
@@ -64,6 +65,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Pointers on grad school applications by Khimya](https://twitter.com/khimya/status/1308257695670120448)
 * [Reflecting on CS Graduate Admissions by David Anderson](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)
 * [Applying to Ph.D. Programs in Computer Science by Mor Harchol-Balter, CMU](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+* [Optimizing Your Machine Learning PhD Applications for Success by Scott Freitas](https://www.scottfreitas.com/blog/2022-phd-application-process)
 
 #### MS Specific
 * [Demystification of the Graduate Admissions Process by Karthik Raghunathan (MS from stanford, now director of ML at Cisco)](https://nlp.stanford.edu/~rkarthik/DAGAP.pdf)
@@ -177,6 +179,7 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [Application support programs - tweet thread compiled by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1446981455683407873?s=20) -- the links may change every year. Application support programs are usually very very helpful, and typically you can use them even if you apply to MS.
 * [CS Ph-D recruiting networking event 2021](https://phd-recruiting.com/) -- has been happening from two years.
 * [CS PhD application fee waivers](https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers)
+* [Largest dataset on CS academia including Professor placements, rankings, conference outcomes/awards, faculty hiring trends, and PhD stipends by Jeff Huang's team (HCI, Brown)](https://jeffhuang.com/computer-science-open-data/). Summary by [Jina Yoon](https://twitter.com/jinayoon_/status/1514658265564520485?s=20&t=dVAuPk3jhok26yef_Ot2EA), raw data available at [Drafty](https://t.co/D1G7hxttrT), and four rankings line up at [CS Open Rankings](https://drafty.cs.brown.edu/csopenrankings/)
 
 ### List of lists
 Most of the links in these lists will appear in the rest of the list otherwise anyway.
